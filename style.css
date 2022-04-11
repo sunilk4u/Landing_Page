@@ -31,3 +31,6 @@
     display: flex;
     gap: 16px;
 }
+.hero{
+    background-color: #1f2937;
+}
