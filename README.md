@@ -1,5 +1,5 @@
 # Landing Page
-This is landing page designed with HTML and CSS. I ahve designed this landing page as a practice project to learn about HTML and CSS. I have implemented and learned many things in this project. 
+This is landing page designed with HTML and CSS. I have designed this landing page as a practice project to learn about HTML and CSS. I have implemented and learned many things in this project. 
 
 ## Objectives of this project
 * Learn about CSS properties.
