@@ -1,5 +1,33 @@
 *{
     border: 0px;
     margin: 0px;
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    background-color: #1f2937;
+    padding: 15px;
+}
+.wrapper{
+    max-width: 1048px;
+    margin: auto;
+}
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    text-decoration: none;
+    font-weight: 800;
+}
+.header-navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-link-list li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.nav-link-list{
+    display: flex;
+    gap: 16px;
 }
