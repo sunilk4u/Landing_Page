@@ -116,3 +116,29 @@
     padding: 10px;
     font-weight: 800;
 }
+.section__4-content{
+    padding: 50px;
+    margin: 30px;
+}
+.card{
+    background-color: #3882F6;
+    max-width: 620px;
+    margin: auto;
+    padding: 20px 50px 20px 50px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.call_to_action{
+    color: #fff;
+}
+.cta-text{
+    color: #e5e7ebb8;
+}
+.sign-up{
+    background-color: #3882F6;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 0px 20px 0px 20px;
+}
