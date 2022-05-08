@@ -8,3 +8,7 @@ This is landing page designed with HTML and CSS. I have designed this landing pa
 * Debugging with developers console.
 * Working with git.
 * Good git commenting practices.
+
+## Screenshot
+
+![Landing_Page](./screenshots/landing_page.jpg)
